@@ -1,6 +1,6 @@
 # Ply
 
-*CREATE VLC PLAYLIST ON THE FLY*
+*Utitly for CREATING VLC PLAYLIST ON THE FLY*
 
 **How to set up.**
 
